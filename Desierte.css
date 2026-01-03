@@ -1,0 +1,23 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    text-align: center;
+    color: rgb(199, 107, 2);
+    font-size: xx-large;
+}
+body{
+    background-color: rgb(223, 177, 93);
+    text-align: center;
+}
+nav ul li{
+    display: block;
+    margin: 0 15px;
+    font-size: x-large
+}
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(49, 43, 30);
+    font-style: italic;
+    font-size: large;
+    text-align: left;
+}

@@ -1,0 +1,25 @@
+body{
+   background-color: rgb(97, 172, 147);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   text-align: center;
+}
+nav ul li{
+    text-align: center;
+    font-family: Geneva, Verdana, sans-serif;
+    color: rgb(32, 148, 99);
+}
+footer{
+    padding: 10px;
+    background-color: rgb(51, 123, 133);
+    text-align: left;
+}
+header{
+    padding: 11px;
+    background-color: rgb(32, 148, 99);
+}
+main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(188, 255, 33);
+}
